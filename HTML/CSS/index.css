@@ -4,14 +4,13 @@
     box-sizing: border-box;
     background: #0A192f;
 }
-/*create a navigation bar*/
+/* *create a navigation bar*/ 
 
 header{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 30px 2%;
-     
 }
 header img{
     padding-right: 1000px;
