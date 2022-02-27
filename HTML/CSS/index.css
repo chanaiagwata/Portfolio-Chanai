@@ -81,9 +81,9 @@ nav {
     margin-top: 20px;
     color: #0A192f;
     border-radius: 10px;
-    width: 120px;
+    width: 90px;
     margin-left: 90px;
-    height: 40px;
+    height: 20px;
 
 }
 
@@ -93,7 +93,9 @@ nav {
     font-family: 'Poppins';
     font-size: 16px;
     font-weight: bold;
+    padding-left: 15px;
 }
+
 
 /* Styling the about section */
 
