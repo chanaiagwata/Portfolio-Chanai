@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Portfolio
 ## Chanai Agwata
 ### (MS School Project)
@@ -45,4 +43,4 @@ Access it here https://chanaiagwata.github.io/Portfolio-Chanai/HTML/
 Linkedin Profile - [Chanai Agwata](https://www.linkedin.com/in/chanai-agwata-90a345146/)
 
 [Go Back to the top](#portfolio)
->>>>>>> 4724f4c4221e71f6f1c64af1ed7c1d0e411cac48
+
