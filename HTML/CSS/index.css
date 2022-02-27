@@ -1,55 +1,64 @@
-*{
+git git add* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-   
+
 }
-body{
+
+body {
     background-color: #0A192f;
     font-family: "Poppins";
 }
-/* *create a navigation bar*/ 
 
-header{
+/* *create a navigation bar*/
+
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 30px 2%;
 }
-header img{
+
+header img {
     padding-right: 1000px;
 }
-.link{
-    
+
+.link {
+
     font-size: 16px;
     list-style: none;
-   
+
 
 }
-nav a{
+
+nav a {
     text-decoration: none;
     color: #f1f1f1;
-  
+
 }
-.link li{
+
+.link li {
     display: inline-block;
-    padding:0px 20px;
+    padding: 0px 20px;
 }
-nav{
+
+nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
 
 }
-.resume{
+
+.resume {
     border: 2px solid#65F4DA;
     padding: 10px 30px 10px 30px;
     margin-left: 30px;
     color: #65F4DA;
     border-radius: 20px;
-    }
+}
+
 /*style banner */
-.banner{
+.banner {
     font-family: 'Poppins';
     font-size: 25px;
     color: #f1f1f1;
@@ -58,64 +67,71 @@ nav{
     font-weight: 300;
     line-height: 36px;
 }
-.banner :first-child{
+
+.banner :first-child {
     color: #65F4DA;
 }
-.hire{
+
+.hire {
     display: flex;
     align-items: center;
     width: 100px;
     background: #65F4DA;
     padding: 20px;
     margin-top: 20px;
-    color:#0A192f;
+    color: #0A192f;
     border-radius: 10px;
     width: 120px;
-    margin-left:90px;
+    margin-left: 90px;
     height: 40px;
-   
+
 }
-.hire a{
+
+.hire a {
     text-decoration: none;
     color: #0A192f;
     font-family: 'Poppins';
     font-size: 16px;
     font-weight: bold;
 }
- /* Styling the about section */
 
- #info h2{
+/* Styling the about section */
+
+#info h2 {
     font-family: 'Poppins';
     /* margin: 100px auto; */
     margin-left: 220px;
     margin-top: 100px;
     color: #f1f1f1;
-    position:relative;
+    position: relative;
     max-width: 600px;
-    
+
 }
-#info h2:before{
+
+#info h2:before {
     content: "";
     display: block;
     width: 120px;
     height: 6px;
-    background:#65F4DA;
-    position:absolute;
-    left:-130px;
-    top:50%;
+    background: #65F4DA;
+    position: absolute;
+    left: -130px;
+    top: 50%;
 }
-#info h2:after{
+
+#info h2:after {
     content: "";
     display: block;
-    width:350px;
+    width: 350px;
     height: 6px;
-    background:#65F4DA;
-    position:absolute;
+    background: #65F4DA;
+    position: absolute;
     right: 125px;
-    top:50%;
+    top: 50%;
 
 }
-.about_a{
+
+.about_a {
     margin-left: 90px;
     margin-top: 20px;
     color: #f1f1f1;
@@ -123,142 +139,166 @@ nav{
     display: inline-flex;
     font-weight: normal;
 }
-.about_a img{
+
+.about_a img {
     margin-right: 180px;
     margin-left: 150px;
-/* profession section stylong*/
+    /* profession section stylong*/
 }
-#info2 h2{
+
+#info2 h2 {
     font-family: 'Poppins';
     margin-left: 90px;
     margin-top: 100px;
     color: #f1f1f1;
-    position:relative;
+    position: relative;
     max-width: 600px;
 }
-#info2 h2:after{
+
+#info2 h2:after {
     content: "";
     display: block;
-    width:310px;
+    width: 310px;
     height: 6px;
-    background:#65F4DA;
-    position:absolute;
+    background: #65F4DA;
+    position: absolute;
     right: 0;
-    top:50%;
+    top: 50%;
 }
+
 /* styling experience section*/
-.experience p{
+.experience p {
     margin-left: 90px;
     margin-top: 20px;
     color: #f1f1f1;
     font-size: 20px;
     font-weight: normal;
-/* projects */
+    /* projects */
 }
-#info3{
+
+#info3 {
     font-family: 'Poppins';
     margin-left: 90px;
     margin-top: 100px;
     color: #f1f1f1;
-    position:relative;
+    position: relative;
     max-width: 600px;
 }
-.divider{
+
+.divider {
     width: 300px;
     height: 8px;
     margin-left: 90px;
     background-color: #65F4DA;
     display: inline-block;
 }
-.project1a{
+
+.project1a {
     margin-top: 30px;
-    display:flex;
+    display: flex;
     justify-content: center;
 }
-.project1b{
+
+.project1b {
     margin: 20px;
     color: #f1f1f1;
 }
-.project2a{
+
+.project2a {
     margin-top: 30px;
-    display:flex;
+    display: flex;
     justify-content: center;
 }
-.project2b{
+
+.project2b {
     margin: 20px;
     color: #f1f1f1;
 }
-.project3a{
+
+.project3a {
     margin-top: 30px;
-    display:flex;
+    display: flex;
     justify-content: center;
 }
-.project3b{
+
+.project3b {
     margin: 20px;
     color: #f1f1f1;
 }
-.project4a{
+
+.project4a {
     margin-top: 30px;
-    display:flex;
+    display: flex;
     justify-content: center;
 }
-.project4b{
+
+.project4b {
     margin: 20px;
     color: #f1f1f1;
 }
-.projects{
+
+.projects {
     margin-left: 90px;
     margin-right: 30px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    
+
 }
-.projectsB{
+
+.projectsB {
     margin: 30px;
     margin-left: 90px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;   
+    justify-content: space-around;
 
 }
+
 /* contact information styling */
-#contact{
+#contact {
     margin-left: 90px;
     margin-top: 100px;
     color: #f1f1f1;
     font-size: 16px;
     font-weight: normal;
 }
+
 /* skills section styling */
-.skills{
+.skills {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     margin: 30px;
 }
-.skills1 li{
+
+.skills1 li {
     color: #f1f1f1;
     list-style: none;
 
 }
-.skills2 li{
+
+.skills2 li {
     color: #f1f1f1;
     list-style: none;
 }
-.skills3 li{
+
+.skills3 li {
     color: #f1f1f1;
     list-style: none;
 }
+
 .skills h3 {
     color: #f1f1f1;
     font-weight: bold;
 }
-.symbol1{
+
+.symbol1 {
     color: #ffdf00;
 }
+
 /* style footer */
-footer{
+footer {
     color: #f1f1f1;
     font-size: 14px;
     margin: 20px;
