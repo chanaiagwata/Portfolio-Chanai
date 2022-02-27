@@ -1,29 +1,36 @@
 # Portfolio
 ## Chanai Agwata
-### (MS Project)
+### (MS School Project)
 
- [Description](Overall Project Description)
+* [Overall Description](https://github.com/chanaiagwata/Portfolio-Chanai/edit/master/README.md#overall-project-description)
+
+* [Setup Instructions](https://github.com/chanaiagwata/Portfolio-Chanai/edit/master/README.md#setup-instructions)
+
+* [License](https://github.com/chanaiagwata/Portfolio-Chanai/edit/master/README.md#license)
+
+* [Author's Info](https://github.com/chanaiagwata/Portfolio-Chanai/edit/master/README.md#authors-info)
+
 ## Overall Project Description
 <p>This is a portfolio that showcases Chanai Agwata's professional experience and background. The author contact information for interested parties to reach him</p>
 
-## User Stories
+### User Stories
 * Access Chanai's resume.
 * Hire chanai if are impressed with his work.
 * About section, allows one to know what Chanai has been upto (personally and professionally).
 * view past projects.
 * Get to know Chanai's mastery of software development concepts.
-## Languages and Frameworks
+### Languages and Frameworks
 * HTML
 * CSS
-## Known Bugs
+### Known Bugs
 * No bug detected so far. 
-## Contributions
+### Contributions
 * This project is open for improvement suggestions and interested parties can fork and pull request at any time.
 
-## Installation Instructions
+## Setup Instructions
 HTTPS: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop
 
-## Live Site
+### Live Site
 Access it here https://chanaiagwata.github.io/Portfolio-Chanai/HTML/
 
 
